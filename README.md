@@ -1,4 +1,4 @@
-[![highlights](doc/pexels-photo-401107.jpeg)]
+(doc/pexels-photo-401107.jpeg)
 
 ## O que estou fazendo (What am I doing - LOG)
 ----
