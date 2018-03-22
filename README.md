@@ -46,6 +46,6 @@
 
 ----
 ## Quem (who)
-Jornalista que gosta de The Who, matemática e programar. Veja onde trabalho e trabalhei aqui e aqui. Entre em contato em reichaves@gmail.com
+Jornalista que gosta de The Who, matemática e programar. Veja onde trabalho e trabalhei [aqui](https://www.reinaldochaves.com) e [aqui](https://www.linkedin.com/in/reinaldochaves/). Entre em contato em reichaves@gmail.com
 
 Namaste
