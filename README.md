@@ -35,6 +35,8 @@
 
 + 19 mar | python | [Estudos - Python for Data Science and Machine Learning bootcamp - ipynb](https://github.com/reichaves/course_pdsmlb)
 
++ 31 mar | python | [Converte PDF em CSV - py](https://github.com/reichaves/curso_knight_python_2017/blob/master/pdftocsv.py)
+
 ### 2017
 
 + 23 ago | python | [Raspa os gastos de gabinetes na Alesc - ipynb](https://github.com/reichaves/raspa_alesc/blob/master/raspador.ipynb)
