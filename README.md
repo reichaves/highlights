@@ -47,6 +47,10 @@
 
 + 04 abr | python | [Exemplo de programa que preenche zeros à esquerda de CNPJs - py](https://github.com/reichaves/curso_knight_python_2017/blob/master/preenchecnpj.py)
 
+#### Maio
+
++ 30 maio | python | [Estudos sobre concessões de lavra e lavra garimpeira no Brasil - repositório privado - py](https://github.com/reichaves)
+
 ### 2017
 
 #### Agosto
