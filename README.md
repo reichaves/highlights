@@ -51,6 +51,8 @@
 
 + 30 maio | python | [Estudos sobre concessões de lavra e lavra garimpeira no Brasil - repositório privado - py](https://github.com/reichaves)
 
++ 30 maio | python | [Diversos programas para segunda fase do Ruralômetro - repositório privado - py](https://github.com/reichaves)
+
 ### 2017
 
 #### Agosto
